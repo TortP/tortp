@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub profile!
 
-<!--
-**TortP/tortp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Viacheslav Paterov, a Computer Science Student and Fullstack Developer.  
 
-Here are some ideas to get you started:
+My goal is to build innovative and impactful projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 **Education:** Computer Science Student specialisation Software Engineering.  
+- 🖥️ **Skills:** HTML, CSS, JavaScript, Python, PHP.  
+- 🔧 **Interests:** Web Development, Wordpress, OpenCart.  
+
+---
+
+Thanks for visiting my profile! 😊
